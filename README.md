@@ -24,7 +24,7 @@ These are the microcontrollers used and tested in this project.
 
 The final arduino schematics looking like so:
 
-![](schematic.png)
+![](/profile/schematic.png)
 
 ## The front end, by [@abdallahmehiz](https://github.com/abdallahmehiz)
 
