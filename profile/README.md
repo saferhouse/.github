@@ -32,7 +32,7 @@ The app has the one job of handling communication between the back end and and t
 
 The app was made with the new [Kotlin Multiplatform](https://www.jetbrains.com/kotlin-multiplatform/) technology from JetBrains. so it works on both iOS (Tested it with a hackintosh) and Android.
 
-It was built with Jetpack Compose as its ui library following Google's Clean architectural guidelines with an MVVM architecture.
+It was built with Jetpack Compose as its ui library following [Google's Clean architectural guidelines](https://developer.android.com/topic/architecture) with an MVVM architecture.
 
 We've used:
  - [Koin](https://insert-koin.io/): for a dependency injection
