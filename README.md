@@ -26,7 +26,7 @@ The final arduino schematics looking like so:
 
 ![](schematic.png)
 
-## The front end, by @abdallahmehiz
+## The front end, by [@abdallahmehiz](https://github.com/abdallahmehiz)
 
 The app has the one job of handling communication between the back end and and the user, informing the user about the state of his house, give him the ability to perform actions and notify him in case of an emergency.
 
@@ -62,7 +62,7 @@ Note: The app's development cycle was less than 1 months long, and while using r
 
 Note #2: To actually use the app, you'll need to self host the backend's api and provide the app with its url. I'll go into hosting it next.
 
-## The back end, by @abdallahmehiz
+## The back end, by [@abdallahmehiz](https://github.com/abdallahmehiz)
 
 The project's back end was made with Spring Boot and Spring Framework.
 
