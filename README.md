@@ -56,7 +56,7 @@ Here are some screenshots of its homescreen.
 |-|-|-|-|
 |![lights](/profile/app/lights_page.PNG)| ![temps](/profile/app/temps_page.PNG) | ![doors](/profile/app/doors_page.PNG) | ![alarms](/profile/app/alarms_page.PNG) |
 
-The app can be downloaded and tested [here](/profile/app-release.apk).
+The app can be downloaded and tested [here](https://github.com/saferhouse/.github/releases/download/1.0-readme/app-release.apk).
 
 Note: The app's development cycle was less than 1 months long, and while using relatively new technologies that i weren't, expect bugs and crashes. 
 
