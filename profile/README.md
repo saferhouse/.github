@@ -16,11 +16,11 @@ These are the microcontrollers used and tested in this project.
 
 | esp32 | Arduino Mega | 4x4 Keypad | 5 Volts Relay |
 |-|-|-|-|
-| ![esp32](./arduino_parts/esp32.jpg) | ![arduino_mega](./arduino_parts/Arduino-Mega.jpg) | ![4x4](./arduino_parts/4x4%20Keypad.jpg) | ![5volts](./arduino_parts/5Volt%20relay.jpg)
+| ![esp32](/profile/arduino_parts/esp32.jpg) | ![arduino_mega](/profile/arduino_parts/Arduino-Mega.jpg) | ![4x4](/profile/arduino_parts/4x4%20Keypad.jpg) | ![5volts](/profile/arduino_parts/5Volt%20relay.jpg)
 | MQ2 Gas Sensor | DHT11 Sensor | Flame Sensor | Water Sensor
-| ![water](./arduino_parts/MQ-2-Gas-Sensor.png) | ![dht](./arduino_parts/DHT11-Sensor.jpg) | ![flame](./arduino_parts/flame%20sensor.jpg) | ![water](./arduino_parts/water%20sensor.jpg) |
+| ![water](/profile/arduino_parts/MQ-2-Gas-Sensor.png) | ![dht](/profile/arduino_parts/DHT11-Sensor.jpg) | ![flame](/profile/arduino_parts/flame%20sensor.jpg) | ![water](/profile/arduino_parts/water%20sensor.jpg) |
 | Buzzer | IC2 LCD | Motion Sensor | RFID |
-| ![buzz](./arduino_parts/Buzzer.png) | ![lcd](./arduino_parts/IC2%20LCD.jpg) | ![motion](./arduino_parts/motion%20senser.png) | ![rfid](./arduino_parts/rfid.jpg) | 
+| ![buzz](/profile/arduino_parts/Buzzer.png) | ![lcd](/profile/arduino_parts/IC2%20LCD.jpg) | ![motion](/profile/arduino_parts/motion%20senser.png) | ![rfid](/profile/arduino_parts/rfid.jpg) | 
 
 The final arduino schematics looking like so:
 
@@ -54,9 +54,9 @@ Here are some screenshots of its homescreen.
 
 |Lights Page| Temps Page | Doors Page | Alarms Page |
 |-|-|-|-|
-|![lights](./app/lights_page.PNG)| ![temps](./app/temps_page.PNG) | ![doors](./app/doors_page.PNG) | ![alarms](./app/alarms_page.PNG) |
+|![lights](/profile/app/lights_page.PNG)| ![temps](/profile/app/temps_page.PNG) | ![doors](/profile/app/doors_page.PNG) | ![alarms](/profile/app/alarms_page.PNG) |
 
-The app can be downloaded and tested [here](./app-release.apk).
+The app can be downloaded and tested [here](/profile/app-release.apk).
 
 Note: The app's development cycle was less than 1 months long, and while using relatively new technologies that i weren't, expect bugs and crashes. 
 
