@@ -1,6 +1,6 @@
 # SaferHouse
 ## Introduction
-SaferHouse is my ([@abdallahmehiz](https://github.com/abdallahmehiz)), [@motazzakoof](https://github.com/motazzakoof) and [@ouchenehichem](https://github.com/ouchenehichem)'s graduation project.
+SaferHouse is my ([@abdallahmehiz](https://github.com/abdallahmehiz)), [@motazzakoof](https://github.com/motazzakoof) and [@ouchenehichem](https://github.com/ouchenehicham)'s graduation project.
 
 It is a prototype of a home security system made with:
  - Arduinos (ESP32 + Arduino Mega) as the microcontrollers.
