@@ -1,6 +1,6 @@
 # SaferHouse
 ## Introduction
-SaferHouse is my ([@abdallahmehiz](https://github.com/abdallahmehiz)), [@motazzakoof](https://github.com/motazzakoof) and [@ouchenehichem](https://github.com/ouchenehichem)'s graduation project.
+SaferHouse is my ([@abdallahmehiz](https://github.com/abdallahmehiz)), [@motazzakoof](https://github.com/motazzakoof) and [@ouchenehichem](https://github.com/ouchenehicham)'s graduation project.
 
 It is a prototype of a home security system made with:
  - Arduinos (ESP32 + Arduino Mega) as the microcontrollers.
@@ -24,7 +24,7 @@ These are the microcontrollers used and tested in this project.
 
 The final arduino schematics looking like so:
 
-![](schematic.png)
+![](/profile/schematic.png)
 
 ## The front end, by [@abdallahmehiz](https://github.com/abdallahmehiz)
 
@@ -35,18 +35,18 @@ The app was made with the new [Kotlin Multiplatform](https://www.jetbrains.com/k
 It was built with Jetpack Compose as its ui library following [Google's Clean architectural guidelines](https://developer.android.com/topic/architecture) with an MVVM architecture.
 
 We've used:
- - [Koin](https://insert-koin.io/): for dependency injection.
- - [Ktor](https://ktor.io/): for networking.
- - [Kotlinx Serialization](https://github.com/Kotlin/kotlinx.serialization): for JSON parsing.
- - [Kotlinx DateTime](https://github.com/Kotlin/kotlinx-datetime): for working with dates.
+ - [Koin](https://insert-koin.io/): for dependency injection
+ - [Ktor](https://ktor.io/): for networking
+ - [Kotlinx Serialization](https://github.com/Kotlin/kotlinx.serialization): for JSON manipulation
+ - [Kotlinx DateTime](https://github.com/Kotlin/kotlinx-datetime): for working with dates
  - [SQLDelights](https://cashapp.github.io/sqldelight/2.0.1/): for the app's local database database.
- - [Voyager](https://voyager.adriel.cafe/): for navigation.
+ - [Voyager](https://voyager.adriel.cafe/): for navigation
  - [Multiplatform Settings](https://github.com/russhwolf/multiplatform-settings): for key-value data pairs storage.
  - [KMP Notifier](https://github.com/mirzemehdi/KMPNotifier/): for notifications.
  - [Moko MVVM](https://github.com/icerockdev/moko-mvvm): for multiplatform viewmodels.
- - [Moko Biometry](https://github.com/icerockdev/moko-biometry): for biometrics.
- - [Moko Resources](https://github.com/icerockdev/moko-resources): for i18n/l10n.
- - [Napier](https://github.com/AAkira/Napier): for logging.
+ - [Moko Biometry](https://github.com/icerockdev/moko-biometry): for biometrics
+ - [Moko Resources](https://github.com/icerockdev/moko-resources): for i18n/l10n
+ - [Napier](https://github.com/AAkira/Napier): for logging
 
 And some other small libraries for like [Acra](https://www.acra.ch/) for Android crash reporting and few UI specific ones like [Sonner](https://github.com/dokar3/compose-sonner) for toasts and [Materii's PTR](https://github.com/MateriiApps/pullrefresh) for pull to refresh
 
@@ -58,7 +58,7 @@ Here are some screenshots of its homescreen.
 
 The app can be downloaded and tested [here](https://github.com/saferhouse/.github/releases/download/1.0-readme/app-release.apk).
 
-Note: The app's development cycle was less than 1 months long, and while using relatively new technologies that i weren't, expect bugs and crashes. 
+Note: The app's development cycle was less than 1 months long, and while using relatively new technologies that I wasn't that familiar with, expect bugs and crashes. 
 
 Note #2: To actually use the app, you'll need to self host the backend's api and provide the app with its url. I'll go into hosting it next.
 

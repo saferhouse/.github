@@ -58,7 +58,7 @@ Here are some screenshots of its homescreen.
 
 The app can be downloaded and tested [here](https://github.com/saferhouse/.github/releases/download/1.0-readme/app-release.apk).
 
-Note: The app's development cycle was less than 1 months long, and while using relatively new technologies that i weren't, expect bugs and crashes. 
+Note: The app's development cycle was less than 1 months long, and while using relatively new technologies that I wasn't that familiar with, expect bugs and crashes. 
 
 Note #2: To actually use the app, you'll need to self host the backend's api and provide the app with its url. I'll go into hosting it next.
 
